@@ -10,13 +10,13 @@ Built with [p5.js](https://p5js.org/) 1.11.3 (CDN, no build step). Open `river-l
 
 ## The idea
 
-River culture vs. road culture, as a playable system. The grid is the coordinate worldview — fixed, orthogonal, certain. The river is the relational one — adaptive, meandering, indifferent to boundaries. The tension isn't staged; it's the mechanic:
+River culture vs. road culture, as a playable system. The grid is the coordinate worldview — fixed, orthogonal, certain. The river is the relational one — adaptive, meandering, indifferent to boundaries.
 
 - The **river always flows**, whether you're there or not
 - Your **cursor bends the survey** — the grid warps under the current while you move
 - The moment you **stop, the grid straightens itself** — the institution reasserts its geometry in the absence of attention
 
-A click *cuts a channel*: the flow is scored permanently into the map, and a survey monument is stamped at the incision — the bureaucracy recording the wound.
+A click *cuts a channel*: the flow is scored permanently into the map, and a survey monument is stamped at the incision.
 
 ## Interaction
 
